@@ -11,4 +11,4 @@ res.send("Resposta da rota /teste");
 
 app.listen(port,() =>{
     console.log(`servidor escutando a porta ${port}`);
-})
+}) 
